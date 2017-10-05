@@ -1,0 +1,8 @@
+---
+applications:
+- name: CollegeAdmission-213369
+  memory: 512M
+  host: CollegeAdmission-213369
+  domain: mybluemix.net
+  services:
+  - ClearDB Managed MySQL Database-gp
